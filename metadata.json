@@ -1,0 +1,6 @@
+{
+  "name": "SKINIC – Dr. Arti Patel | Dermatology & Aesthetic Clinic",
+  "description": "Premium dermatology, skincare and cosmetology clinic by Dr. Arti Patel in Ahmedabad. Personalised clinical and aesthetic care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
